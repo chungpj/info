@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+site_name: Chung NA
+permalink: /:title.html
