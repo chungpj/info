@@ -1,2 +1,3 @@
 site_name: Chung NA
 permalink: /:title.html
+theme: jekyll-theme-cayman
