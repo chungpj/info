@@ -20,7 +20,7 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  Home: {{ site.url }}
+  Home: {site.url}
   Projects:
     - Hospital Management: "http://deanattali.com/beautiful-jekyll/"
     - Document Management: "http://www.markdowntutorial.com/"
