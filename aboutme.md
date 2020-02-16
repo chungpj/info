@@ -1,10 +1,10 @@
 ---
 layout: page
-#title: About me
+title: About me
 #subtitle: Why you'd want to go on a date with me
 ---
 
-### Chung Nguyen Anh:
+##### Chung Nguyen Anh:
 - Sex: Male
 - 1993, Nghi Loc, Nghe An
 - 2015, Vinh University
