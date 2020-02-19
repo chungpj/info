@@ -20,9 +20,10 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  Home: {{site.baseurl}}
-  Projects:
+  Home: "index.html"
+  My Projects:
     - Hospital Management: "http://deanattali.com/beautiful-jekyll/"
+    - Laboratory Information System: "http://deanattali.com/beautiful-jekyll/"
     - Document Management: "http://www.markdowntutorial.com/"
   About Me: "aboutme"
 
@@ -35,7 +36,7 @@ avatar: "/img/monday.png"
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
-
+background-image: "/img/background/bg1.jpg"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
