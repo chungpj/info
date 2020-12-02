@@ -22,14 +22,14 @@ description: A virtual proof that I'm awesome
 navbar-links:
   Home: "index.html"
   My Projects:
-    - Hospital Management: "http://deanattali.com/beautiful-jekyll/"
-    - Laboratory Information System: "http://deanattali.com/beautiful-jekyll/"
-    - Document Management: "http://www.markdowntutorial.com/"
+    - Hospital Management: "/2020-02-16-Hospital-Management/"
+    - Laboratory Information System: "/2020-02-19-Laboratory-Information-System"
+    - Document Management: "#"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/monday.png"
+avatar: "/img/hello_word.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -70,8 +70,8 @@ author:
 social-network-links:
   #rss: false
   email: "anhchungitsme@gmail.com"
-  facebook: fb.com/anhchungitsme
-  github: daattali
+  facebook: anhchungitsme
+  github: chungpj
   #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
