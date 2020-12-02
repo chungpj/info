@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hospital Management
-subtitle: Product team
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: Hospital Management (HIS)
+# subtitle: Product team
+# gh-repo: chungpj
+gh-badge: [follow]
 tags: [timeline, project demo, images]
 comments: true
 ---
