@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Laboratory Information System (LIS)
-subtitle: Product team
 # gh-repo: daattali/beautiful-jekyll
 gh-badge: [follow]
 tags: [timeline, project demo, images]
