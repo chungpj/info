@@ -1,8 +1,20 @@
-FROM jekyll/jekyll
+FROM jekyll/jekyll:latest as build
 
-COPY --chown=jekyll:jekyll Gemfile .
-COPY --chown=jekyll:jekyll Gemfile.lock .
+WORKDIR /srv/jekyll
 
-RUN bundle install --quiet --clean
+ADD . /srv/jekyll
 
-CMD ["jekyll", "serve"]
+RUN gem install bundler && \
+    rm -rf Gemfile.lock && \
+    chmod -R 777 ${PWD} && \
+    bundle update && \
+    bundle install
+    # jekyll build && \
+    # jekyll serve --livereload --drafts --trace
+
+ARG build_command
+ENV BUILD_COMMAND ${build_command}
+
+CMD ${BUILD_COMMAND}
+
+# EXPOSE 4000
