@@ -1,0 +1,32 @@
+---
+layout: post
+title: Laboratory Information System (LIS)
+# gh-repo: daattali/beautiful-jekyll
+gh-badge: [follow]
+tags: [timeline, project demo, images]
+comments: true
+date: '2020-02-19 14:35:23 +0530'
+category: projectDemo
+#thumbnail: /assets/img/posts/code.jpg
+keywords: projectDemo, LIS
+#permalink: /blog/welcome-to-devlopr-jekyll/
+usemathjax: true
+---
+##### Description:
+- 2015-2017
+- Connect and receive data from Laboratory machines by RS232 port or MS Access database.
+- Send data from LIS to HIS
+- Example:
+ + Blood test machines: Sweblab Alpha, CelltacAnpha, Sysmex KX-21
+ + Urine testing machines: Clinitek, ComboStikR300, Urilyzer 100M2
+ + Biochemical test machine: Monarch240
+- 2015-2017
+- Description:
+ OS: Windows
+ Platform: Windows Application (Winforms used DevExpress controls)
+ Technologies: Vb.Net, ADO.NET, MS SQL Server Database
+- Team size: 8
+
+![Crepe]({{ site.baseurl }}/assets//img/project/LIS/1.png){: .center-block :}
+
+![Crepe]({{ site.baseurl }}/assets//img/project/LIS/2.png){: .center-block :}

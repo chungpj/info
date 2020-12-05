@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: ChungNA profile
+subtitle: A virtual proof that I'm awesome
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -30,9 +30,9 @@ author_logo: profile.png
 author: Chung NA
 author_bio: Hi, my name is Chung NA. I'm a Fullstack deverloper .NET
 author_email: "anhchungitsme@gmail.com"
-author_location: VietNam
+author_location: Ha Noi, VietNam
 # author_website_url: "https://sujaykundu.com"
-typewrite-text: Hello World ! I'm Chung NA. I'm a Fullstack deverloper .NET
+typewrite-text: Hello World ! I'm Chung NA. I'm a Fullstack developer .NET
 
 # Experiences
 author_work_experiences:
@@ -92,7 +92,7 @@ hyvor_talk_website_id: 476
 wakatime_username: ChungNA
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
 formspree_email: anhchungitsme@gmail.com
