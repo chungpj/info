@@ -71,12 +71,12 @@ author_project_details:
               - project_thumbnail: gamershub.png
                 project_title: VTN HIS
                 project_description: WindowsForm Application
-                project_url: /blog/Hospital-Management
+                project_url: https://chungpj.github.io/chungna/blog/Hospital-Management
                 visibility: true
               - project_thumbnail: hack4r.PNG
                 project_title: VTN LIS
                 project_description: WindowsForm Application
-                project_url: {{site.github_username}}{{site.baseurl}}/blog/Laboratory-Information-System
+                project_url: https://chungpj.github.io/chungna/blog/Laboratory-Information-System
                 visibility: true
 
 # social links
