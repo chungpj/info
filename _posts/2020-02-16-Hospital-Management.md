@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hospital Management (HIS)
+author: ChungNA
 # subtitle: Product team
 # gh-repo: chungpj
 gh-badge: [follow]
@@ -10,18 +11,20 @@ comments: true
 category: projectDemo
 #thumbnail: /assets/img/posts/code.jpg
 keywords: project Demo, HIS
-#permalink: /blog/welcome-to-devlopr-jekyll/
+permalink: /blog/Hospital-Management/
 usemathjax: true
 summary: Management of patient registration informations on a Hospital or Clinic
 ---
 ##### Description:
 - 2015-2017
-- Management of patient registration informations on a Hospital or Clinic
-- Description:
- OS: Windows
- Platform: Windows Application (Winforms used DevExpress controls)
- Technologies: Vb.Net, ADO.NET, MS SQL Server Database
-- Team size: 8
+- Management of patient registration informations on a Hospital or Clinic.
+
+##### Technologies:
+- OS: Windows
+- Platform: Windows Application (Winforms used DevExpress controls).
+- Technologies: Vb.Net, ADO.NET, MS SQL Server Database.
+
+##### Team size: 8
 
 
 ![Crepe]({{ site.baseurl }}/assets/img/project/HIS/1.png){: .center-block :}

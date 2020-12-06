@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Mountains
+title: My life
 ---
 
-{% include gallery-layout.html gallery=site.data.galleries.mountains %}
+{% include gallery-layout.html gallery=site.data.galleries.monday %}
