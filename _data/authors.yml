@@ -1,49 +1,49 @@
 # Add Authors here
 johndoe:
-   name: John Doe
-   username: johndoe
+   name: Chung Nguyen Anh
+   username: ChungNA
    site: http://johndoe.com
-   avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
-   email: mail@johndoe.com
+   avatar: 
+   bio: 
+   email: anhchungitsme@gmail.com
    social:
       - title: "github"
-        url: "https://github.com/johndoe"
+        url: "https://github.com/chungpj"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/johndoe"
+        url: "https://www.linkedin.com"
       - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+        url: "https://www.youtube.com"
       - title: "facebook"
-        url: "https://www.facebook.com/johndoe"
+        url: "https://www.facebook.com/anhchungitsme"
       - title: "twitter"
-        url: "https://www.twitter.com/johndoe"
+        url: "https://www.twitter.com"
       - title: "behance"
-        url: "https://behance.com/johndoe"
+        url: "https://behance.com"
       - title: "instagram"
-        url: "https://instagram.com/johndoe"
+        url: "https://instagram.com"
       - title: "medium"
-        url: "https://medium.com/johndoe"
+        url: "https://medium.com"
       - title: "telegram"
-        url: "https://telegram.com/johndoe"
+        url: "https://telegram.com"
       - title: "dribbble"
-        url: "https://dribbble.com/johndoe"
+        url: "https://dribbble.com"
       - title: "flickr"
-        url: "https://flickr.com/johndoe"
+        url: "https://flickr.com"
 
 xplor4r:
-   name: Sujay kundu
-   username: xplor4r
-   site: https://sujaykundu.com
-   avatar: xplor4r.png
-   bio: "Full Stack Web Developer, based in Bangalore, India"
-   email: mail@sujaykundu.com
+   name: ""
+   username: ""
+   site: ""
+   avatar: ""
+   bio: ""
+   email: ""
    social:
-      - title: "github"
-        url: "https://github.com/sujaykundu777"
+      - title: ""
+        url: ""
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/sujaykundu"
+        url: ""
       - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/sujay.kundu2"
+        url: ""
+      - title: ""
+        url: ""
 

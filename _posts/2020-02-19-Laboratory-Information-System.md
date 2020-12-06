@@ -2,6 +2,7 @@
 layout: post
 title: Laboratory Information System (LIS)
 # gh-repo: daattali/beautiful-jekyll
+author: ChungNA
 gh-badge: [follow]
 tags: [timeline, project demo, images]
 comments: true
