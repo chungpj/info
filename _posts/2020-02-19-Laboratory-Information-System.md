@@ -2,7 +2,7 @@
 layout: post
 title: Laboratory Information System (LIS)
 # gh-repo: daattali/beautiful-jekyll
-author: ChungNA
+author: chungna
 gh-badge: [follow]
 tags: [timeline, project demo, images]
 comments: true
@@ -12,6 +12,7 @@ category: projectDemo
 keywords: projectDemo, LIS
 permalink: /blog/Laboratory-Information-System/
 usemathjax: true
+summary: Connect and receive data from Laboratory machines. Send data from LIS to HIS
 ---
 ##### Description:
 - 2015-2017

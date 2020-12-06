@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hospital Management (HIS)
-author: ChungNA
+author: chungna
 # subtitle: Product team
 # gh-repo: chungpj
 gh-badge: [follow]

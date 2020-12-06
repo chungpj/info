@@ -31,7 +31,7 @@ layout: default
         <ul>
           {% for post in site.posts limit:5 %}
           <li class="article-card">
-            <a href="{{post.url}}" class="article-card-link">
+            <a href="{{site.github_username}}{{site.baseurl}}{{post.permalink}}" class="article-card-link">
               <div id="article-container">
                 <div id="article-img">
                   {% if post.author %}
