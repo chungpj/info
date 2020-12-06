@@ -11,7 +11,7 @@ comments: true
 category: projectDemo
 #thumbnail: /assets/img/posts/code.jpg
 keywords: project Demo, HIS
-permalink: {{site.baseurl}}/blog/Hospital-Management/
+permalink: /blog/Hospital-Management/
 usemathjax: true
 summary: Management of patient registration informations on a Hospital or Clinic
 ---
