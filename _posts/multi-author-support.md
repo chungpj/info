@@ -24,35 +24,35 @@ Under _authors folder create a author details file (username.md) with his/her us
 Then add this frontmatter to describe the author in **johndoe.md**.
 ```yml
 ---
-name: John Doe # Name of the Author
-username: johndoe # Username of the Author
-bio: "Hi I a John, a Web Developer and Designer." # Author Bio
-site: http://johndoe.com  # Author Website URL
-avatar: johndoe.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
-email: mail@johndoe.com  # Author Email address
+name: Chung NA # Name of the Author
+username: chungna # Username of the Author
+bio: "Hi I a ChungNA, i'm a Fullstack .NET developer." # Author Bio
+site:   # Author Website URL
+avatar: chungna.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
+email: anhchungitsme@gmail.com  # Author Email address
 social:  # Author Social profile links
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/chungpj"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
+      url: "https://www.linkedin.com"
     - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      url: "https://www.youtube.com"
     - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
+      url: "https://www.facebook.com/anhchungitsme"
     - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
+      url: "https://www.twitter.com"
     - title: "behance"
-      url: "https://behance.com/johndoe"
+      url: "https://behance.com"
     - title: "instagram"
-      url: "https://instagram.com/johndoe"
+      url: "https://instagram.com"
     - title: "medium"
-      url: "https://medium.com/johndoe"
+      url: "https://medium.com"
     - title: "telegram"
-      url: "https://telegram.com/johndoe"
+      url: "https://telegram.com"
     - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
+      url: "https://dribbble.com"
     - title: "flickr"
-      url: "https://flickr.com/johndoe"
+      url: "https://flickr.com"
 ---
 ```
 You can create multiple authors similarly under _authors
@@ -62,53 +62,35 @@ Next, copy the same frontmatter in _data/authors.yml (under individual author us
 ```yml
 # Author 1
 johndoe:
-   name: John Doe
-   username: johndoe
-   site: http://johndoe.com
-   avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
+   name: Chung NA
+   username: chungna
+   site: 
+   avatar: chungna.png
+   bio: "Hi I a ChungNA, i'm a Fullstack .NET developer."
    email: mail@johndoe.com
    social:
       - title: "github"
-        url: "https://github.com/johndoe"
+        url: "https://github.com/chungpj"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/johndoe"
+        url: "https://www.linkedin.com"
       - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+        url: "https://www.youtube.com/"
       - title: "facebook"
-        url: "https://www.facebook.com/johndoe"
+        url: "https://www.facebook.com/anhchungitsme"
       - title: "twitter"
-        url: "https://www.twitter.com/johndoe"
+        url: "https://www.twitter.com"
       - title: "behance"
-        url: "https://behance.com/johndoe"
+        url: "https://behance.com"
       - title: "instagram"
-        url: "https://instagram.com/johndoe"
+        url: "https://instagram.com"
       - title: "medium"
-        url: "https://medium.com/johndoe"
+        url: "https://medium.com"
       - title: "telegram"
-        url: "https://telegram.com/johndoe"
+        url: "https://telegram.com"
       - title: "dribbble"
-        url: "https://dribbble.com/johndoe"
+        url: "https://dribbble.com"
       - title: "flickr"
-        url: "https://flickr.com/johndoe"
-
-# Author 2
-janedoe:
-   name: Jane Doe
-   username: janedoe
-   site: https://janedoe.com
-   avatar: jane.png
-   bio: "Designer"
-   email: mail@janedoe.com
-   social:
-      - title: "github"
-        url: "https://github.com/janedoe"
-      - title: "linkedin"
-        url: "https://www.linkedin.com/janedoe"
-      - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/janedoe"
+        url: "https://flickr.com"
 
 ```
 
