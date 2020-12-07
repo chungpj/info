@@ -1,0 +1,63 @@
+picture_path: monday
+preview:
+  filename: 1
+  original: 1.jpg
+  sizes:
+  - 1.jpg
+  thumbnail: 1-thumbnail.jpg
+pictures:
+- filename: 1
+  original: 1.jpg
+  sizes:
+  - 1.jpg
+  thumbnail: 1-thumbnail.jpg
+- filename: 2
+  original: 2.jpg
+  sizes:
+  - 2.jpg
+  thumbnail: 
+- filename: 3
+  original: 3.jpg
+  sizes:
+  - 3.jpg
+  thumbnail: 
+- filename: 4
+  original: 4.jpg
+  sizes:
+  - 4.jpg
+  thumbnail:
+- filename: 5
+  original: 5.jpeg
+  sizes:
+  - 5.jpg
+  thumbnail: 
+- filename: 6
+  original: 6.jpeg
+  sizes:
+  - 6.jpg
+  thumbnail:
+- filename: 7
+  original: 7.jpeg
+  sizes:
+  - 7.jpg
+  thumbnail:
+- filename: 8
+  original: 8.jpeg
+  sizes:
+  - 8.jpg
+  thumbnail:
+- filename: 9
+  original: 9.jpeg
+  sizes:
+  - 9.jpg
+  thumbnail:
+- filename: 10
+  original: 10.jpeg
+  sizes:
+  - 10.jpg
+  thumbnail:
+- filename: 11
+  original: 11.jpeg
+  sizes:
+  - 11.jpg
+  thumbnail:

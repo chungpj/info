@@ -27,8 +27,8 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Chung NA
-author_bio: Hi, my name is Chung NA. I'm a Fullstack deverloper .NET
+author: chungna
+author_bio: Hi, my name is Chung NA. I'm a Fullstack .NET deverloper
 author_email: "anhchungitsme@gmail.com"
 author_location: Ha Noi, VietNam
 # author_website_url: "https://sujaykundu.com"

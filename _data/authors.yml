@@ -2,7 +2,7 @@
 chungna:
    name: Chung Nguyen Anh
    username: ChungNA
-   site: http://johndoe.com
+   site: 
    avatar: 
    bio: 
    email: anhchungitsme@gmail.com
@@ -29,21 +29,3 @@ chungna:
         url: "https://dribbble.com"
       - title: "flickr"
         url: "https://flickr.com"
-
-xplor4r:
-   name: ""
-   username: ""
-   site: ""
-   avatar: ""
-   bio: ""
-   email: ""
-   social:
-      - title: ""
-        url: ""
-      - title: "linkedin"
-        url: ""
-      - title: "youtube"
-        url: ""
-      - title: ""
-        url: ""
-
