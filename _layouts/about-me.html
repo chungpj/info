@@ -91,7 +91,7 @@ layout: default
       {% endif %} {% if site.author_website_url %}
       <h6><i class="fas fa-link"></i> {{ site.author_website_url }}</h6>
       {% endif %} {% if site.author_cv %}
-      <h6><i class="fas fa-file-pdf"></i> [My CV]({{ site.baseurl }}{{ site.author_cv }})</h6>
+      <h6><i class="fas fa-file-pdf"></i> {%- include mycv.html -%}</h6>
       {% endif %}
     </div>
 
