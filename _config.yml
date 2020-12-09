@@ -27,8 +27,10 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
+author_cv: /assets/files/cv/NguyenAnhChung.pdf
 author: ChungNA
-author_bio: Hi, my name is Chung NA. I'm a Fullstack .NET deverloper
+author_bio: I learn new stuff every day to be on a top of .NET technologies and best practices. I have
+been working with .NET more than 4 years.  I’m trying to become a full stack developer and technical leader.
 author_email: "anhchungitsme@gmail.com"
 author_location: Ha Noi, VietNam
 # author_website_url: "https://sujaykundu.com"
@@ -68,15 +70,41 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: 
+                project_title: Pronexus Works (NTQ)
+                project_description: WPF
+                project_languages: ASP.NET MVC 5, ADO.NET, EntityFramework, Oracle 11, WCF Service
+                project_url: 
+                visibility: true
+              - project_thumbnail: 
+                project_title: Archives (DKC)
+                project_description: Web Application
+                project_languages: ASP.NET MVC 5, EntityFramework, MS SQL Server, Bootstrap
+                project_url: 
+                visibility: true
               - project_thumbnail: gamershub.png
                 project_title: VTN HIS
                 project_description: WindowsForm Application
+                project_languages: VB .NET, ADO.NET, MS SQL Server, Devexpress
                 project_url: https://chungpj.github.io/chungna/blog/Hospital-Management
                 visibility: true
               - project_thumbnail: hack4r.PNG
                 project_title: VTN LIS
                 project_description: WindowsForm Application
+                project_languages: VB.NET, ADO.NET, MS SQL Server, Devexpress
                 project_url: https://chungpj.github.io/chungna/blog/Laboratory-Information-System
+                visibility: true
+              - project_thumbnail: 
+                project_title: VTN HRM
+                project_description: Web Application
+                project_languages: ASP.NET Core MVC 5, EntityFramework, MS SQL Server, Bootstrap, Kendo UI
+                project_url: 
+                visibility: true
+              - project_thumbnail: 
+                project_title: VTN Register Online
+                project_description: Web Application
+                project_languages: ASP.NET MVC 5, EntityFramework, MS SQL Server, Bootstrap
+                project_url: 
                 visibility: true
 
 # social links
