@@ -90,9 +90,8 @@ layout: default
       <h6><i class="fas fa-envelope"></i> {{ site.author_email }}</h6>
       {% endif %} {% if site.author_website_url %}
       <h6><i class="fas fa-link"></i> {{ site.author_website_url }}</h6>
-      {% endif %}
-      {% if site.author_website_url %}
-      <h6><i class="fas fa-file-pdf"></i> <a href="{{site.github_username}}/{{site.baseurl}}{{ site.author_cv }}">My CV</a></h6>
+      {% endif %} {% if site.author_cv %}
+      <h6><i class="fas fa-file-pdf"></i> <a href="{{ site.github_username }}/{{ site.baseurl }}{{ site.author_cv }}">My CV</a></h6>
       {% endif %}
     </div>
 
