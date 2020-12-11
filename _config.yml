@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/chungna" # the subpath of your site, e.g. /blog
+baseurl: "/info" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Home
@@ -85,13 +85,13 @@ author_project_details:
                 project_title: VTN HIS
                 project_description: WindowsForm Application
                 project_languages: VB .NET, ADO.NET, MS SQL Server, Devexpress
-                project_url: https://chungpj.github.io/chungna/blog/Hospital-Management
+                project_url: https://chungpj.github.io/info/blog/Hospital-Management
                 visibility: true
               - project_thumbnail: hack4r.PNG
                 project_title: VTN LIS
                 project_description: WindowsForm Application
                 project_languages: VB.NET, ADO.NET, MS SQL Server, Devexpress
-                project_url: https://chungpj.github.io/chungna/blog/Laboratory-Information-System
+                project_url: https://chungpj.github.io/info/blog/Laboratory-Information-System
                 visibility: true
               - project_thumbnail: 
                 project_title: VTN HRM
