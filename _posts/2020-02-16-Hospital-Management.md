@@ -31,7 +31,11 @@ summary: Management of patient registration informations on a Hospital or Clinic
 
 ![Crepe]({{ site.baseurl }}/assets/img/project/HIS/2.png){: .center-block :}
 
+![Crepe]({{ site.baseurl }}/assets/img/project/HIS/22.png){: .center-block :}
+
 ![Crepe]({{ site.baseurl }}/assets/img/project/HIS/3.png){: .center-block :}
+
+![Crepe]({{ site.baseurl }}/assets/img/project/HIS/32.png){: .center-block :}
 
 ![Crepe]({{ site.baseurl }}/assets/img/project/HIS/4.png){: .center-block :}
 
@@ -40,6 +44,10 @@ summary: Management of patient registration informations on a Hospital or Clinic
 ![Crepe]({{ site.baseurl }}/assets/img/project/HIS/6.png){: .center-block :}
 
 ![Crepe]({{ site.baseurl }}/assets/img/project/HIS/7.png){: .center-block :}
+
+![Crepe]({{ site.baseurl }}/assets/img/project/HIS/72.png){: .center-block :}
+
+![Crepe]({{ site.baseurl }}/assets/img/project/HIS/73.png){: .center-block :}
 
 ![Crepe]({{ site.baseurl }}/assets/img/project/HIS/8.png){: .center-block :}
 
